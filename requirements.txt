@@ -1,0 +1,8 @@
+streamlit
+supabase
+openai
+gtts
+boto3
+SpeechRecognition
+pyaudio
+audio-recorder-streamlit
